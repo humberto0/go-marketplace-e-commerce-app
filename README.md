@@ -8,23 +8,23 @@ Before getting started with GoMarketplace, ensure that you have Node.js and Reac
 
 To install GoMarketplace, follow these steps:
 
-*1 Clone the repository to your local machine.
+* Clone the repository to your local machine.
 
 ```bash
 git clone https://github.com/humberto0/go-marketplace-e-commerce-app.git
 ```
 
-*2 To install all dependencies.
+* To install all dependencies.
 
 ```bash
 yarn
 ```
-*3 To start the application in development mode.
+* To start the application in development mode.
 
 ```bash
 yarn start
 ```
-*4 Open http://localhost:3000 to view it in the browser.
+* Open http://localhost:3000 to view it in the browser.
 
 
 ## Usage
